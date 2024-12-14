@@ -1,3 +1,3 @@
 # WebOasis
 Welcome to WebOasis! My first Git Repository.<br>
-Author- Manali
+Author- Manali Dnyaneshwar Patil
